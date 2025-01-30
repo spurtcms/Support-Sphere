@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72.001" height="72" viewBox="0 0 72.001 72">
+    <g data-name="Group 13867">
+        <g data-name="Group 13866">
+            <g data-name="Rectangle 5144" transform="translate(26.313 4.44)" style="stroke-width:1.6px;stroke:#a0d99b;fill:#c8efc4">
+                <rect width="45.688" height="45.688" rx="2" style="stroke:none"/>
+                <rect x=".8" y=".8" width="44.088" height="44.088" rx="1.2" style="fill:none"/>
+            </g>
+            <path data-name="Path 3365" d="M23462.369 2957.8h14.014v16.016l-7.076-4.7-6.937 4.7z" transform="translate(-23420.4 -2952.559)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#047600;stroke-width:1.6px;fill:#fff"/>
+            <g data-name="Rectangle 5146" transform="translate(26.313 4.44)" style="fill:none;stroke-width:1.6px;stroke:#a0d99b">
+                <rect width="45.688" height="45.688" rx="2" style="stroke:none"/>
+                <rect x=".8" y=".8" width="44.088" height="44.088" rx="1.2" style="fill:none"/>
+            </g>
+            <g data-name="Group 13860">
+                <g data-name="Ellipse 394" transform="translate(14.942 31.668)" style="stroke-width:1.6px;stroke:#a0d99b;fill:#fff">
+                    <ellipse cx="18.018" cy="17.946" rx="18.018" ry="17.946" style="stroke:none"/>
+                    <ellipse cx="18.018" cy="17.946" rx="17.218" ry="17.146" style="fill:none"/>
+                </g>
+                <path data-name="Line 549" transform="translate(33.033 64.173)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.306"/>
+                <path data-name="Line 550" transform="rotate(90 .141 49.755)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.306"/>
+                <path data-name="Line 551" transform="translate(33.033 49.614)" style="fill:none;stroke-linecap:round;stroke:#047600;stroke-width:1.6px" d="M6.487 0H0"/>
+                <path data-name="Line 552" transform="translate(33.033 32.749)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.306"/>
+                <path data-name="Line 553" transform="translate(33.033 39.812)" style="fill:none;stroke-linecap:round;stroke:#047600;stroke-width:1.6px" d="M0 0v9.802"/>
+                <path data-name="Line 554" transform="rotate(90 -15.642 33.972)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.306"/>
+            </g>
+            <path data-name="Line 555" transform="translate(.801 48.613)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M14.84 0H0"/>
+            <path data-name="Line 556" transform="translate(8.436 42.606)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M8.008 0H0"/>
+            <path data-name="Line 557" transform="translate(13.442 36.6)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M8.008 0H0"/>
+            <path data-name="Line 558" transform="translate(8.221 54.619)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M8.008 0H0"/>
+            <path data-name="Line 559" transform="translate(13.442 60.625)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M6.006 0H0"/>
+            <path data-name="Line 560" transform="translate(5.434 60.625)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M3.003 0H0"/>
+            <path data-name="Line 561" transform="translate(5.434 36.6)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M3.003 0H0"/>
+        </g>
+    </g>
+</svg>

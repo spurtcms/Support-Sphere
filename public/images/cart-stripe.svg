@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="20" viewBox="0 0 48 20">
+    <defs>
+        <clipPath id="xc5oocl19a">
+            <path data-name="Rectangle 5079" transform="translate(1206 783)" style="fill:#fff;stroke:#707070" d="M0 0h48v20H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 427" transform="translate(-1206 -783)" style="clip-path:url(#xc5oocl19a)">
+        <g data-name="Stripe_Logo,_revised_2016">
+            <path data-name="Path 29729" d="M55.2 15.12c0-3.413-1.653-6.107-4.813-6.107s-5.093 2.693-5.093 6.08c0 4.013 2.267 6.04 5.52 6.04a7.434 7.434 0 0 0 3.693-.867V17.6a7.08 7.08 0 0 1-3.267.733c-1.293 0-2.44-.453-2.587-2.027h6.52c0-.173.027-.866.027-1.186zm-6.587-1.267c0-1.507.92-2.133 1.76-2.133.813 0 1.68.627 1.68 2.133z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+            <path data-name="Path 29730" d="M40.147 9.013a3.767 3.767 0 0 0-2.613 1.04l-.173-.827h-2.934v15.547l3.333-.707.013-3.773a3.755 3.755 0 0 0 2.36.84c2.387 0 4.56-1.92 4.56-6.147-.013-3.866-2.213-5.973-4.546-5.973zm-.8 9.187a1.993 1.993 0 0 1-1.573-.627l-.013-4.947a1.984 1.984 0 0 1 1.587-.653c1.213 0 2.053 1.36 2.053 3.107-.001 1.787-.828 3.12-2.054 3.12z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+            <path data-name="Path 29731" d="m29.84 8.227 3.347-.72V4.8l-3.347.707z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+            <path data-name="Rectangle 5078" transform="translate(1228.64 787.453)" style="fill:#635bff" d="M0 0h3.347v11.667H0z"/>
+            <path data-name="Path 29732" d="m26.253 10.227-.213-.987h-2.88v11.667h3.333V13a2.351 2.351 0 0 1 2.533-.693V9.24a2.263 2.263 0 0 0-2.773.987z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+            <path data-name="Path 29733" d="m19.587 6.347-3.253.693-.014 10.68a3.35 3.35 0 0 0 3.453 3.427 5.15 5.15 0 0 0 2.333-.44V18c-.427.173-2.533.787-2.533-1.187V12.08h2.533V9.24h-2.533z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+            <path data-name="Path 29734" d="M10.573 12.627c0-.52.427-.72 1.133-.72a7.437 7.437 0 0 1 3.307.853V9.627a8.793 8.793 0 0 0-3.307-.613C9 9.013 7.2 10.427 7.2 12.787c0 3.68 5.067 3.093 5.067 4.68 0 .613-.533.813-1.28.813a8.3 8.3 0 0 1-3.64-1.067v3.173a9.243 9.243 0 0 0 3.64.76c2.773 0 4.68-1.373 4.68-3.76-.014-3.973-5.094-3.266-5.094-4.759z" style="fill-rule:evenodd;fill:#635bff" transform="translate(1198.8 778.213)"/>
+        </g>
+    </g>
+</svg>

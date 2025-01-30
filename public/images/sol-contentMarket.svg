@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+        <clipPath id="22bfhv890a">
+            <path data-name="Rectangle 5173" transform="translate(342 434)" style="stroke:#707070;fill:#333" d="M0 0h17v17H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 455" transform="translate(-342 -434)" style="clip-path:url(#22bfhv890a)">
+        <path data-name="Path 1585" d="M1.24 10.625h5.312a1.241 1.241 0 0 0 1.24-1.24V6.552a1.241 1.241 0 0 0-1.24-1.24H1.24A1.241 1.241 0 0 0 0 6.552v2.833a1.241 1.241 0 0 0 1.24 1.24z" style="fill:#bbc1cb" transform="translate(342 434)"/>
+        <path data-name="Path 1586" d="M1.24 17h5.312a1.241 1.241 0 0 0 1.24-1.24v-2.833a1.241 1.241 0 0 0-1.24-1.24H1.24A1.241 1.241 0 0 0 0 12.927v2.833A1.241 1.241 0 0 0 1.24 17z" style="fill:#bbc1cb" transform="translate(342 434)"/>
+        <path data-name="Path 1587" d="M15.76 0H1.24A1.241 1.241 0 0 0 0 1.24v1.77a1.241 1.241 0 0 0 1.24 1.24h14.52A1.241 1.241 0 0 0 17 3.01V1.24A1.241 1.241 0 0 0 15.76 0z" style="fill:#bbc1cb" transform="translate(342 434)"/>
+        <path data-name="Path 1588" d="M16.469 5.313H9.74a.531.531 0 0 0 0 1.063h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+        <path data-name="Path 1589" d="M16.469 7.438H9.74a.531.531 0 0 0 0 1.063h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+        <path data-name="Path 1590" d="M16.469 9.563H9.74a.531.531 0 0 0 0 1.063h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+        <path data-name="Path 1591" d="M16.469 11.688H9.74a.531.531 0 0 0 0 1.063h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+        <path data-name="Path 1592" d="M16.469 13.813H9.74a.531.531 0 0 0 0 1.063h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+        <path data-name="Path 1593" d="M16.469 15.938H9.74a.531.531 0 0 0 0 1.062h6.729a.531.531 0 0 0 0-1.062z" style="fill:#333" transform="translate(342 434)"/>
+    </g>
+</svg>

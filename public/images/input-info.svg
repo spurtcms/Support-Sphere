@@ -1,0 +1,7 @@
+<svg data-name="Group 13744" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g data-name="Path 29728" style="fill:#f8f1f1">
+        <path d="M8 15.5C3.864 15.5.5 12.136.5 8S3.864.5 8 .5s7.5 3.364 7.5 7.5-3.364 7.5-7.5 7.5z" style="stroke:none"/>
+        <path d="M8 1C4.14 1 1 4.14 1 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7m0-1a8 8 0 1 1 0 16A8 8 0 0 1 8 0z" style="fill:#c83131;stroke:none"/>
+    </g>
+    <path d="M8.533 4.384h1.233v5.474H8.533zm.617 8.448a.822.822 0 1 1 .822-.822.823.823 0 0 1-.823.822z" transform="translate(-1.13 -.762)" style="fill:#c83232"/>
+</svg>

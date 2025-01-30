@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+    <defs>
+        <clipPath id="dikophm8aa">
+            <rect data-name="Rectangle 5147" width="72" height="72" rx="2" transform="translate(388 2346)" style="stroke-width:1.6px;stroke:#a0d99b;fill:#c8efc4"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 436" transform="translate(-388 -2346)" style="clip-path:url(#dikophm8aa)">
+        <g data-name="Path 3375" style="fill:#c8efc4">
+            <path d="M64.378 53.34H7.622A6.83 6.83 0 0 1 .8 46.52V7.622A6.83 6.83 0 0 1 7.622.8h56.756A6.83 6.83 0 0 1 71.2 7.622v38.897a6.83 6.83 0 0 1-6.822 6.822z" style="stroke:none" transform="translate(388 2351.25)"/>
+            <path d="M7.622 1.6A6.029 6.029 0 0 0 1.6 7.622v38.897a6.029 6.029 0 0 0 6.022 6.022h56.756a6.029 6.029 0 0 0 6.022-6.022V7.622A6.029 6.029 0 0 0 64.378 1.6H7.622m0-1.6h56.756A7.628 7.628 0 0 1 72 7.622v38.897a7.628 7.628 0 0 1-7.622 7.622H7.622A7.628 7.628 0 0 1 0 46.519V7.622A7.628 7.628 0 0 1 7.622 0z" style="fill:#a0d99b;stroke:none" transform="translate(388 2351.25)"/>
+        </g>
+        <g data-name="Path 3376" style="fill:#fff">
+            <path d="M29.65 40.168c-.943 0-1.88-.38-2.57-1.043a3.631 3.631 0 0 1-1.122-2.647V17.663c0-1.015.397-1.955 1.118-2.648a3.744 3.744 0 0 1 2.567-1.042c.643 0 1.26.168 1.837.501l16.284 9.4c.548.348.99.801 1.279 1.312l.004.008.005.008c.506.848.65 1.845.405 2.805a3.649 3.649 0 0 1-1.683 2.254L31.48 39.667a3.606 3.606 0 0 1-1.83.5z" style="stroke:none" transform="translate(388 2351.25)"/>
+            <path d="M29.643 14.773c-.737 0-1.47.298-2.013.819a2.842 2.842 0 0 0-.872 2.07v18.816c0 1.785 1.5 2.89 2.891 2.89.499 0 .979-.132 1.43-.394L47.37 29.57a2.854 2.854 0 0 0 1.311-1.76 2.878 2.878 0 0 0-.316-2.199l-.019-.032a2.986 2.986 0 0 0-.997-1.021l-16.27-9.391a2.843 2.843 0 0 0-1.436-.394m0-1.6c.746 0 1.513.19 2.237.608l16.298 9.408a4.6 4.6 0 0 1 1.561 1.603c1.266 2.124.577 4.894-1.56 6.16l-16.3 9.407c-2.98 1.73-6.721-.436-6.721-3.88V17.662c0-2.614 2.143-4.49 4.485-4.49z" style="fill:#047600;stroke:none" transform="translate(388 2351.25)"/>
+        </g>
+        <path data-name="Line 562" transform="translate(389 2410.75)" style="fill:none;stroke-linecap:round;stroke-width:1.6px;stroke:#a0d99b" d="M0 0h70"/>
+        <path data-name="Path 3377" d="M0 0h4" transform="rotate(90 -978.875 1429.875)" style="stroke:#047600;fill:none;stroke-linecap:round;stroke-width:1.6px"/>
+    </g>
+</svg>

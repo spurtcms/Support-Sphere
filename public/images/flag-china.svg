@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" viewBox="0 0 20 14">
+    <defs>
+        <clipPath id="9z4hoqqdfa">
+            <rect data-name="Rectangle 4878" width="20" height="14" rx="1" transform="translate(129 778)" style="fill:#fff;stroke:#707070"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 390" transform="translate(-129 -778)" style="clip-path:url(#9z4hoqqdfa)">
+        <g data-name="Flag_of_the_People's_Republic_of_China">
+            <path data-name="Path 3009" d="M0 0h20v14H0" style="fill:#ee1c25" transform="translate(129 778)"/>
+            <path d="m.476-1.5 1.175 3.618-3.078-2.236h3.8L-.7 2.118" transform="translate(131.858 780.833)" style="fill:#ff0" data-name="Group 13772"/>
+            <path data-name="Path 3010" d="m.634 0 .392 1.206L0 .461h1.268l-1.026.745" transform="rotate(23.036 -1842.412 721.32)" style="fill:#ff0"/>
+            <path data-name="Path 3011" d="m.634 0 .392 1.206L0 .461h1.268l-1.026.745" transform="rotate(45.87 -852.87 551.803)" style="fill:#ff0"/>
+            <path data-name="Path 3012" d="m.634 0 .392 1.206L0 .461h1.268l-1.026.745" transform="rotate(69.945 -490.16 489.141)" style="fill:#ff0"/>
+            <path data-name="Path 3013" d="m.634 0 .392 1.206L0 .461h1.268l-1.026.745" transform="rotate(20.66 -2080.657 762.75)" style="fill:#ff0"/>
+        </g>
+    </g>
+</svg>

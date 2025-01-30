@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="if4akm3z4a">
+            <path data-name="Rectangle 4834" transform="translate(92 975)" style="fill:#fff;stroke:#707070" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 318" transform="translate(-92 -975)" style="clip-path:url(#if4akm3z4a)">
+        <g data-name="Group 2404">
+            <g data-name="Group 2399">
+                <path data-name="Path 2815" d="M41 18.034a5.367 5.367 0 1 1-5.371-5.371A5.366 5.366 0 0 1 41 18.034z" style="fill:#047600" transform="translate(91.001 974.001)"/>
+            </g>
+            <g data-name="Group 2400">
+                <path data-name="Path 2816" d="M1 18.031a3.445 3.445 0 0 0 3.445 3.445h.3v-6.89h-.3A3.445 3.445 0 0 0 1 18.031z" style="fill:#c8efc5;stroke:#a0d89b" transform="translate(91.001 974.001)"/>
+            </g>
+            <g data-name="Group 2401">
+                <path data-name="Path 2817" d="M35.63 4v28.062l-18.42-7.6V11.6z" style="fill:#c8efc5;stroke:#a0d89b" transform="translate(91.001 974.001)"/>
+            </g>
+            <g data-name="Group 2402">
+                <path data-name="Path 2818" d="M17.21 11.6v12.862h-9.9A2.562 2.562 0 0 1 4.743 21.9v-7.739A2.562 2.562 0 0 1 7.305 11.6h9.9z" style="fill:#047600" transform="translate(91.001 974.001)"/>
+            </g>
+            <g data-name="Group 2403">
+                <path data-name="Path 2819" d="M17.21 34.377v-9.915H9.967v9.915a3.622 3.622 0 0 0 7.243 0z" style="fill:#047600" transform="translate(91.001 974.001)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #65777a;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="check_13_" data-name="check (13)" transform="translate(-1.25 -1.25)">
+    <path id="Path_3030" data-name="Path 3030" class="cls-1" d="M13.25,2.924A10.326,10.326,0,1,0,23.576,13.25,10.326,10.326,0,0,0,13.25,2.924ZM1.25,13.25a12,12,0,1,1,12,12A12,12,0,0,1,1.25,13.25Z"/>
+    <path id="Path_3031" data-name="Path 3031" class="cls-1" d="M16.993,9a.837.837,0,0,1,0,1.184l-5.581,5.581a.837.837,0,0,1-1.184,0L8,13.528a.837.837,0,1,1,1.184-1.184l1.641,1.64L15.809,9a.837.837,0,0,1,1.184,0Z" transform="translate(0.756 0.872)"/>
+  </g>
+</svg>

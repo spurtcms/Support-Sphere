@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="njro0vh80a">
+            <path data-name="Rectangle 4820" transform="translate(380 2675)" style="fill:#fff;stroke:#707070" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 317" transform="translate(-380 -2675)" style="clip-path:url(#njro0vh80a)">
+        <g data-name="Layer 2">
+            <g data-name="Layer 2 copy 5">
+                <g data-name="30">
+                    <g style="fill:#c8efc5;stroke:#a0d89b" transform="translate(380 2675)">
+                        <circle cx="20" cy="20" r="20" style="stroke:none"/>
+                        <circle cx="20" cy="20" r="19.5" style="fill:none"/>
+                    </g>
+                    <g data-name="30">
+                        <path data-name="Path 2813" d="M16.1 30.1V13.961l2.182 2.18a1.647 1.647 0 0 0 2.33-2.33l-4.993-4.992a1.647 1.647 0 0 0-2.329 0L8.3 13.811a1.647 1.647 0 0 0 2.33 2.33l2.18-2.18V30.1a1.563 1.563 0 0 0 1.56 1.56h.162A1.563 1.563 0 0 0 16.1 30.1z" style="fill:#047600" transform="translate(380 2675)"/>
+                        <path data-name="Path 2814" d="M23.9 9.9v16.139l-2.182-2.18a1.647 1.647 0 1 0-2.33 2.33l4.992 4.992a1.647 1.647 0 0 0 2.329 0l4.991-4.992a1.647 1.647 0 1 0-2.33-2.33l-2.18 2.18V9.9a1.562 1.562 0 0 0-1.563-1.56h-.158A1.563 1.563 0 0 0 23.9 9.9z" style="fill:#047600" transform="translate(380 2675)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

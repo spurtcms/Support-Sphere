@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="28u04uj34a">
+            <path data-name="Rectangle 4822" transform="translate(92 2675)" style="fill:#fff;stroke:#707070" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 315" transform="translate(-92 -2675)" style="clip-path:url(#28u04uj34a)">
+        <g data-name="search (3)">
+            <g data-name="Group 2398" transform="translate(94.034 2677.033)">
+                <path data-name="Union 10" d="m-9570.034-5845.319.064-.055a13.877 13.877 0 0 0 1.423-1.407 14.08 14.08 0 0 0 .925-1.177l.053-.074 4.479 4.347-1.162 1.2-1.388 1.43z" transform="translate(9592.866 5870.416)" style="fill:#a0d99b"/>
+                <path data-name="Path 2804" d="m34.853 36.968 2.758-2.842a1.268 1.268 0 0 0-.027-1.788l-5.972-5.8a1.269 1.269 0 0 0-1.788.027l-2.758 2.842a1.268 1.268 0 0 0 .027 1.788l5.972 5.8a1.268 1.268 0 0 0 1.788-.027z" style="fill-rule:evenodd;fill:#a0d99b"/>
+                <circle data-name="Ellipse 406" cx="13.909" cy="13.909" r="13.909" transform="translate(0 .616)" style="fill:#a1d89c"/>
+                <g data-name="Ellipse 407" transform="rotate(-45 16.516 9.718)" style="fill:#c8efc4;stroke:#a0d89b">
+                    <circle cx="11.271" cy="11.271" r="11.271" style="stroke:none"/>
+                    <circle cx="11.271" cy="11.271" r="11.771" style="fill:none"/>
+                </g>
+            </g>
+            <path data-name="search (2)" d="M22.176 18.309a.67.67 0 0 1 .331.579V27.3a.669.669 0 0 1-.331.579l-7.289 4.208a.67.67 0 0 1-.67 0l-7.289-4.204A.669.669 0 0 1 6.6 27.3v-8.412a.67.67 0 0 1 .331-.579l7.286-4.209a.671.671 0 0 1 .67 0zm-7.624-2.857 5.948 3.436-5.953 3.436L8.6 18.888zm-6.619 4.594 5.949 3.436v6.872l-5.949-3.436v-6.872zm7.285 10.308v-6.872l5.952-3.436v6.872z" transform="translate(93.55 2668.388)" style="fill:#047600;fill-rule:evenodd"/>
+        </g>
+    </g>
+</svg>

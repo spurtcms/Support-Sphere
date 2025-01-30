@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="lcvcsv39ia">
+            <path data-name="Rectangle 4885" transform="translate(976 461)" style="stroke:#383838;stroke-width:1.5px;fill:#fff" d="M0 0h32v32H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 408" transform="translate(-976 -461)" style="clip-path:url(#lcvcsv39ia)">
+        <path data-name="Path 3069" d="M7.442 13.4c0-4.911 0-7.367 1.526-8.893s3.981-1.526 8.893-1.526 7.367 0 8.893 1.526S28.28 8.488 28.28 13.4v8.93c0 4.911 0 7.367-1.526 8.893s-3.982 1.526-8.893 1.526-7.367 0-8.893-1.526-1.526-3.982-1.526-8.893z" style="stroke-linecap:round;fill:none;stroke:#178c40;stroke-width:1.5px" transform="translate(974.139 459.14)"/>
+        <path data-name="Path 3070" d="M16.372 28.279h2.977" style="stroke-linejoin:round;stroke-linecap:round;fill:none;stroke:#178c40;stroke-width:1.5px" transform="translate(974.139 459.14)"/>
+        <path data-name="Path 3071" d="m13.4 2.977.132.795c.287 1.722.431 2.584 1.021 3.108.616.547 1.49.563 3.311.563s2.7-.016 3.311-.563c.591-.524.734-1.385 1.021-3.108l.132-.795" style="stroke-linejoin:round;fill:none;stroke:#178c40;stroke-width:1.5px" transform="translate(974.139 459.14)"/>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="13" viewBox="0 0 13 13">
+    <defs>
+        <linearGradient id="4h2z2gcx1c" x1="-.168" y1=".92" x2=".762" y2="-.011" gradientUnits="objectBoundingBox">
+            <stop offset=".108" stop-color="#c757bc"/>
+            <stop offset=".173" stop-color="#cd5ca9"/>
+            <stop offset=".492" stop-color="#e8744f"/>
+            <stop offset=".716" stop-color="#f88316"/>
+            <stop offset=".823" stop-color="#ff8900"/>
+        </linearGradient>
+        <linearGradient id="yru2j2fyka" x1=".319" y1="1.359" x2=".773" y2=".456" gradientUnits="objectBoundingBox">
+            <stop offset=".296" stop-color="#00afff"/>
+            <stop offset=".694" stop-color="#5282ff"/>
+            <stop offset="1" stop-color="#945dff"/>
+        </linearGradient>
+        <linearGradient id="475cbaom5d" x1="-.024" y1=".523" x2=".61" y2="-.08" xlink:href="#yru2j2fyka"/>
+        <clipPath id="vxuygshbeb">
+            <path data-name="Rectangle 15" transform="translate(448 344)" style="fill:#fff;stroke:#707070" d="M0 0h13v13H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 5" transform="translate(-448 -344)" style="clip-path:url(#vxuygshbeb)">
+        <path data-name="Path 5" d="m16.522 10.845-6.728 7.069v6.323l6.715-6.728 6.68-6.668z" transform="translate(438.207 333.159)" style="fill:url(#4h2z2gcx1c)"/>
+        <path data-name="Path 6" d="m9.794 29.517 6.715-6.728 6.68 6.728z" transform="translate(438.207 327.88)" style="fill:url(#yru2j2fyka)"/>
+        <path data-name="Path 7" d="M9.794 10.847h6.728l-6.728 7.069z" transform="translate(438.207 333.156)" style="fill:url(#475cbaom5d)"/>
+    </g>
+</svg>

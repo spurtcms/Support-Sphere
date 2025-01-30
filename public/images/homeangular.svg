@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+    <defs>
+        <clipPath id="boils92aaa">
+            <path data-name="Rectangle 30" transform="translate(792 305)" style="stroke:#707070;fill:#fff" d="M0 0h13v13H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 6" transform="translate(-792 -305)" style="clip-path:url(#boils92aaa)">
+        <g data-name="angular-icon (2)">
+            <path data-name="Path 8" d="M.406 2.153 6.456 0l6.209 2.12-1 8L6.456 13l-5.121-2.842z" style="fill:#e23237" transform="translate(791.964 305)"/>
+            <path data-name="Path 9" d="M12.665 2.12 6.456 0v13l5.206-2.879 1-8z" style="fill:#b52e31" transform="translate(791.964 305)"/>
+            <path data-name="Path 10" d="M6.465 1.519 2.7 9.9l1.4-.024.76-1.895h3.374L9.06 9.89l1.341.028zm.009 2.692L7.75 6.875H5.362l1.116-2.664z" style="fill:#fff" transform="translate(791.964 305)"/>
+        </g>
+    </g>
+</svg>

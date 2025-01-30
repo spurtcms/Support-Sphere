@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="yc6vnmxl9a">
+            <path data-name="Rectangle 4860" transform="translate(72 452)" style="stroke:#02ad02;stroke-width:2px;fill:#fff" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 409" transform="translate(-72 -452)" style="clip-path:url(#yc6vnmxl9a)">
+        <g data-name="waterfall-up-01-stroke-rounded (1)">
+            <path data-name="Path 1540" d="M9.846 20.9v-3.669" transform="translate(69.265 449.214)" style="stroke-linejoin:round;fill:none;stroke-linecap:round;stroke:#02ad02;stroke-width:2px"/>
+            <path data-name="Path 1541" d="M14.769 17.188v-6.111" transform="translate(69.231 449.257)" style="stroke-linejoin:round;fill:none;stroke-linecap:round;stroke:#02ad02;stroke-width:2px"/>
+            <path data-name="Path 1542" d="M19.692 11.051V7.385" transform="translate(69.197 449.282)" style="stroke-linejoin:round;fill:none;stroke-linecap:round;stroke:#02ad02;stroke-width:2px"/>
+            <path data-name="Path 1543" d="M24.615 12.256V4.923" transform="translate(69.163 449.299)" style="stroke-linejoin:round;fill:none;stroke-linecap:round;stroke:#02ad02;stroke-width:2px"/>
+            <path data-name="Path 1544" d="M3.692 3.692v13.445c0 4.033 0 6.05 1.253 7.3s3.269 1.253 7.3 1.253h13.447" style="fill:none;stroke-linecap:round;stroke:#02ad02;stroke-width:2px" transform="translate(69.308 449.308)"/>
+        </g>
+    </g>
+</svg>

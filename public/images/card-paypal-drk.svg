@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+    <defs>
+        <clipPath id="27j7d9myxa">
+            <path data-name="Rectangle 4705" transform="translate(898 794)" style="stroke:#707070;fill:#fff" d="M0 0h15v15H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 307" transform="translate(-898 -794)" style="clip-path:url(#27j7d9myxa)">
+        <path data-name="paypal-[#140]" d="M136.857 5553.675c-.911 3.913-3.69 4.575-7.423 4.575l-1.125 6h2.06c.375 0 .533-.256.6-.616.514-3.248.442-2.716.488-3.225.044-.283.29-.659.578-.659 2.737 0 4.552-.792 5.106-3.631a3.19 3.19 0 0 0-.287-2.444m-8.506 4.471-.842 4.6H124.9a.473.473 0 0 1-.4-.544l1.947-12.393a.669.669 0 0 1 .661-.563h4.675c2.768 0 4.632 1.051 4.2 3.791-.755 4.879-4.937 4.459-6.84 4.459a.9.9 0 0 0-.8.646" transform="translate(774.625 -4755.25)" style="fill-rule:evenodd;fill:#fff"/>
+    </g>
+</svg>

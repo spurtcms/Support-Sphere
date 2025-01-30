@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+    <defs>
+        <clipPath id="beajcb8o0a">
+            <path data-name="Rectangle 28" transform="translate(944 481)" style="fill:#fff;stroke:#707070" d="M0 0h13v13H0z"/>
+        </clipPath>
+        <clipPath id="ktoe3p4ipb">
+            <path data-name="Path 15" d="m12.008 6.258-3.5 3.5 3.5 3.5h-4l-3.5-3.5 3.5-3.5zm-4-6-6.5 6.5 2 2 8.5-8.5h-4z"/>
+        </clipPath>
+        <radialGradient id="jt7vkmtaad" cx=".028" cy=".068" r="1.223" gradientTransform="matrix(1.238 0 0 -1 -2.189 -5.539)" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fff" stop-opacity=".102"/>
+            <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="69fcp0eo3c" x1=".197" y1="1.193" x2=".699" y2=".448" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#1a237e" stop-opacity=".4"/>
+            <stop offset="1" stop-color="#1a237e" stop-opacity="0"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Mask Group 9" transform="translate(-944 -481)" style="clip-path:url(#beajcb8o0a)">
+        <g data-name="flutterio-icon (1)">
+            <g data-name="Group 3" style="clip-path:url(#ktoe3p4ipb)" transform="translate(943.742 480.741)">
+                <path data-name="Path 14" d="m4.509 9.758 2 2 5.5-5.5h-4z" style="fill:#39cefd"/>
+            </g>
+            <g data-name="Group 4" style="clip-path:url(#ktoe3p4ipb)" transform="translate(943.742 480.741)">
+                <path data-name="Path 16" d="M8.009.259h4l-8.5 8.5-2-2z" style="fill:#39cefd"/>
+            </g>
+            <g data-name="Group 5" style="clip-path:url(#ktoe3p4ipb)" transform="translate(943.742 480.741)">
+                <path data-name="Path 18" d="m6.508 11.758 1.5 1.5h4l-3.5-3.5z" style="fill:#03569b"/>
+            </g>
+            <g data-name="Group 6" style="clip-path:url(#ktoe3p4ipb)" transform="translate(943.742 480.741)">
+                <path data-name="Path 20" d="m9.474 10.731-.966-.972-2 2z" style="fill:url(#69fcp0eo3c)"/>
+            </g>
+            <g data-name="Group 7" style="clip-path:url(#ktoe3p4ipb)" transform="translate(943.742 480.741)">
+                <path data-name="Path 22" d="m4.509 9.758 2-2 2 2-2 2z" style="fill:#16b9fd"/>
+            </g>
+            <path data-name="Path 24" d="m12.008 6.258-3.5 3.5 3.5 3.5h-4l-3.5-3.5 3.5-3.5zm-4-6-6.5 6.5 2 2 8.5-8.5h-4z" style="fill:url(#jt7vkmtaad)" transform="translate(943.742 480.741)"/>
+        </g>
+    </g>
+</svg>
