@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+    <defs>
+        <clipPath id="019vtodhca">
+            <path data-name="Rectangle 5170" transform="translate(1082 315)" style="fill:#fff;stroke:#707070" d="M0 0h17v17H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 454" transform="translate(-1082 -315)" style="clip-path:url(#019vtodhca)">
+        <path data-name="nft (1)" d="m15.679 4.068-6.93-4a.5.5 0 0 0-.5 0l-6.93 4a.5.5 0 0 0-.249.431v8a.5.5 0 0 0 .249.431l6.93 4a.5.5 0 0 0 .5 0l6.93-4a.5.5 0 0 0 .249-.431v-8a.5.5 0 0 0-.249-.431z" transform="translate(1082 315)" style="fill:#bbc1cb"/>
+        <path data-name="nft (1)" d="M6.633 10.1a.5.5 0 0 1-.5.5H5.6a.5.5 0 0 1-.46-.306L4.232 8.11v1.99a.5.5 0 0 1-1 0V6.9a.5.5 0 0 1 .5-.5h.533a.5.5 0 0 1 .46.306l.909 2.182V6.9a.5.5 0 0 1 1 0zM10.1 7.4H8.5v.871h1.067a.5.5 0 0 1 0 1H8.5v.829a.5.5 0 0 1-1 0V6.9a.5.5 0 0 1 .5-.5h2.1a.5.5 0 0 1 0 1zm3.468 0H13v2.7a.5.5 0 0 1-1 0V7.4h-.569a.5.5 0 0 1 0-1h2.134a.5.5 0 0 1 .003 1z" transform="translate(1082 315)" style="fill:#333"/>
+    </g>
+</svg>

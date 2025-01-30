@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+    <defs>
+        <clipPath id="3mqjhqalha">
+            <path data-name="Rectangle 5156" transform="translate(676 2346)" style="fill:#fff7f7" d="M0 0h72v72H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 437" transform="translate(-676 -2346)" style="clip-path:url(#3mqjhqalha)">
+        <path d="m0 0-4.219 2.109L-8.437 0h-18.985v42.328h46.406V0z" style="stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px;fill:#c8efc4;stroke-linejoin:round" transform="translate(716.219 2346)"/>
+        <path d="M31.781-61.312h8.438V-72h-8.438z" style="fill:#047600" transform="translate(676 2418)"/>
+        <path d="M36-61.312h4.219V-72H36z" style="fill:#047600" transform="translate(676 2418)"/>
+        <path data-name="Line 564" transform="translate(699.5 2389.5)" style="fill:none;stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px" d="M0 0v18"/>
+        <path data-name="Line 566" transform="translate(724.5 2389.5)" style="fill:none;stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px" d="M0 0v18"/>
+        <path data-name="Line 568" transform="translate(712 2389.5)" style="fill:none;stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px" d="M0 0v18"/>
+        <path data-name="Line 565" transform="translate(683.5 2407.5)" style="fill:none;stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px" d="M16 0H0"/>
+        <path data-name="Line 567" transform="translate(724.5 2407.5)" style="fill:none;stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px" d="M0 0h16"/>
+        <circle data-name="Ellipse 398" cx="6" cy="6" r="6" transform="translate(677 2401)" style="stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px;fill:#c8efc4;stroke-linejoin:round"/>
+        <circle data-name="Ellipse 399" cx="6" cy="6" r="6" transform="translate(706 2405)" style="stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px;fill:#c8efc4;stroke-linejoin:round"/>
+        <circle data-name="Ellipse 400" cx="6" cy="6" r="6" transform="translate(735 2401)" style="stroke:#a0d99b;stroke-linecap:round;stroke-width:1.6px;fill:#c8efc4;stroke-linejoin:round"/>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23">
+    <defs>
+        <clipPath id="z56darg9sa">
+            <path data-name="Rectangle 5029" transform="translate(768 657.313)" style="fill:#fff;stroke:#707070" d="M0 0h23v23H0z"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(.5 1.768)" data-name="Mask Group 393" style="clip-path:url(#z56darg9sa)">
+        <circle data-name="Ellipse 526" cx="2.052" cy="2.052" r="2.052" transform="translate(8.948 7.66)" style="fill:#00d8ff"/>
+        <g data-name="Group 2386">
+            <path data-name="Path 29563" d="M11.016 3.38a23.025 23.025 0 0 1 7.244 1.06c2.325.8 3.755 2.014 3.755 3.113 0 1.147-1.515 2.433-4.015 3.261a23.12 23.12 0 0 1-6.988.952 23.045 23.045 0 0 1-7.13-.959C1.47 9.981.015 8.675.015 7.552c0-1.09 1.365-2.294 3.658-3.093a23.226 23.226 0 0 1 7.342-1.079z" transform="translate(-.015 2.16)" style="fill:none;stroke:#00d8ff;fill-rule:evenodd"/>
+            <path data-name="Path 29564" d="M5.648 7.643A23.025 23.025 0 0 1 10.185 1.9C12.04.282 13.806-.35 14.758.2c.992.572 1.352 2.529.821 5.1a23.107 23.107 0 0 1-2.666 6.529 23.038 23.038 0 0 1-4.392 5.7C6.6 19.21 4.74 19.817 3.767 19.256c-.944-.544-1.305-2.328-.852-4.714a23.235 23.235 0 0 1 2.733-6.9z" transform="translate(1.72 -.005)" style="fill:none;stroke:#00d8ff;fill-rule:evenodd"/>
+            <path data-name="Path 29565" d="M5.649 11.83a23.031 23.031 0 0 1-2.713-6.8C2.464 2.615 2.8.77 3.749.22c.991-.574 2.866.091 4.833 1.838a23.118 23.118 0 0 1 4.325 5.57 23.04 23.04 0 0 1 2.742 6.651c.5 2.5.094 4.417-.878 4.98-.943.546-2.669-.032-4.51-1.616a23.228 23.228 0 0 1-4.612-5.813z" transform="translate(1.722 .004)" style="fill:none;stroke:#00d8ff;fill-rule:evenodd"/>
+        </g>
+    </g>
+</svg>

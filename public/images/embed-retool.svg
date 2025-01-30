@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="126" viewBox="0 0 240 126">
+    <defs>
+        <clipPath id="prfew491ea">
+            <rect data-name="Rectangle 4826" width="240" height="126" rx="8" transform="translate(1160 1840)" style="stroke:#707070;fill:#fff"/>
+        </clipPath>
+        <clipPath id="fpojxobwbb">
+            <rect data-name="Rectangle 4832" width="240" height="127.937" rx="11.813" style="fill:#fff"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 389" transform="translate(-1160 -1840)" style="clip-path:url(#prfew491ea)">
+        <g data-name="Group 2368" transform="translate(1160 1839.032)" style="clip-path:url(#fpojxobwbb)">
+            <rect data-name="Rectangle 4831" width="240" height="127.937" rx="11.813" style="fill:#ff885f"/>
+            <circle data-name="Ellipse 1" cx="20.49" cy="20.49" r="20.49" transform="translate(-10.995 -9)" style="fill:#ffc3b3"/>
+            <circle data-name="Ellipse 4" cx="20.49" cy="20.49" r="20.49" transform="translate(-10.995 95.953)" style="fill:#ffc3b3"/>
+            <circle data-name="Ellipse 2" cx="20.49" cy="20.49" r="20.49" transform="translate(44.978 -9)" style="fill:#ffc3b3"/>
+            <circle data-name="Ellipse 5" cx="20.49" cy="20.49" r="20.49" transform="translate(44.978 95.953)" style="fill:#ffc3b3"/>
+            <circle data-name="Ellipse 3" cx="20.49" cy="20.49" r="20.49" transform="translate(100.95 -9)" style="fill:#ffc3b3"/>
+            <circle data-name="Ellipse 6" cx="20.49" cy="20.49" r="20.49" transform="translate(100.95 95.953)" style="fill:#ffc3b3"/>
+            <rect data-name="Rectangle 12" width="33.983" height="33.983" rx="4.922" transform="translate(19.99 46.977)" style="fill:#f3581b"/>
+            <rect data-name="Rectangle 13" width="33.983" height="33.983" rx="4.922" transform="translate(74.963 46.977)" style="fill:#f3581b"/>
+            <path data-name="Rectangle 14" d="M177.188 15.854a5 5 0 0 1 5-5h54.973V115.8h-54.976a5 5 0 0 1-5-5z" transform="translate(2.723 .136)" style="fill:#c64214"/>
+            <path data-name="Line 01" d="m212.987 63.119-10-5.771v11.541zm-88.955 1h2.022v-2h-2.022zm6.065 0h4.043v-2h-4.04zm8.087 0h4.043v-2h-4.043zm8.087 0h4.043v-2h-4.044zm8.087 0h4.042v-2h-4.043zm8.087 0h4.043v-2h-4.043zm8.086 0h4.044v-2h-4.045zm8.087 0h4.044v-2h-4.044zm8.087 0h4.044v-2H186.7zm8.087 0h4.043v-2h-4.043zm8.087 0h4.043v-2h-4.043z" transform="translate(1.906 .85)" style="fill:#0f0f0f;opacity:.8"/>
+        </g>
+    </g>
+</svg>

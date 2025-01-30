@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <g data-name="Path 2771" style="fill:none">
+        <path d="M15.6 2H4.4A2.407 2.407 0 0 0 2 4.4v11.2A2.407 2.407 0 0 0 4.4 18h11.2a2.407 2.407 0 0 0 2.4-2.4V4.4A2.407 2.407 0 0 0 15.6 2z" style="stroke:none" transform="translate(-2 -2)"/>
+        <path d="M4.4 3C3.628 3 3 3.628 3 4.4v11.2c0 .772.628 1.4 1.4 1.4h11.2c.772 0 1.4-.628 1.4-1.4V4.4c0-.772-.628-1.4-1.4-1.4H4.4m0-1h11.2C16.92 2 18 3.08 18 4.4v11.2c0 1.32-1.08 2.4-2.4 2.4H4.4C3.08 18 2 16.92 2 15.6V4.4C2 3.08 3.08 2 4.4 2z" style="fill:#ddd;stroke:none" transform="translate(-2 -2)"/>
+    </g>
+</svg>

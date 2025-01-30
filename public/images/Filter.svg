@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <clipPath id="udss3q060a">
+            <path data-name="Rectangle 4821" transform="translate(236 2675)" style="fill:#fff;stroke:#707070" d="M0 0h40v40H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 316" transform="translate(-236 -2675)" style="clip-path:url(#udss3q060a)">
+        <g data-name="filter (1)" transform="translate(236 2675)">
+            <g data-name="Path 2805" style="fill:#c8efc5">
+                <path d="M32.816 39.5H7.184A6.692 6.692 0 0 1 .5 32.816V7.184A6.692 6.692 0 0 1 7.184.5h25.632A6.692 6.692 0 0 1 39.5 7.184v25.632a6.692 6.692 0 0 1-6.684 6.684z" style="stroke:none"/>
+                <path d="M7.184 1A6.191 6.191 0 0 0 1 7.184v25.632A6.191 6.191 0 0 0 7.184 39h25.632A6.191 6.191 0 0 0 39 32.816V7.184A6.191 6.191 0 0 0 32.816 1H7.184m0-1h25.632A7.192 7.192 0 0 1 40 7.184v25.632A7.192 7.192 0 0 1 32.816 40H7.184A7.192 7.192 0 0 1 0 32.816V7.184A7.192 7.192 0 0 1 7.184 0z" style="fill:#a0d89b;stroke:none"/>
+            </g>
+            <path data-name="Path 2807" d="M33.8 31.216H6.2a1.177 1.177 0 0 1 0-2.353h27.6a1.177 1.177 0 0 1 0 2.353z" style="fill:#a1d89c"/>
+            <path data-name="Path 2809" d="M33.686 21.059H6.078a1.176 1.176 0 0 1 0-2.352h27.608a1.176 1.176 0 0 1 0 2.352z" style="fill:#a1d89c"/>
+            <path data-name="Path 2811" d="M33.686 11.02H6.078a1.177 1.177 0 0 1 0-2.353h27.608a1.177 1.177 0 0 1 0 2.353z" style="fill:#a1d89c"/>
+            <circle data-name="Ellipse 408" cx="3.686" cy="3.686" r="3.686" transform="translate(23.843 16.314)" style="fill:#047600"/>
+            <circle data-name="Ellipse 409" cx="3.686" cy="3.686" r="3.686" transform="translate(13.804 26.353)" style="fill:#047600"/>
+            <circle data-name="Ellipse 410" cx="3.686" cy="3.686" r="3.686" transform="translate(8.784 6.275)" style="fill:#047600"/>
+        </g>
+    </g>
+</svg>

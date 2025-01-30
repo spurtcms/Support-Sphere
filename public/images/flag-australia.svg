@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="14" viewBox="0 0 20 14">
+    <defs>
+        <clipPath id="vnm2s9ftua">
+            <rect data-name="Rectangle 4920" width="20" height="14" rx="1" transform="translate(80 792)" style="stroke:#707070;fill:#fff"/>
+        </clipPath>
+        <clipPath id="ma3nlzlf6b">
+            <path data-name="Path 3193" d="M0 0h13.642v6.821H0z"/>
+        </clipPath>
+        <clipPath id="9bc30ms4lc">
+            <path data-name="Path 3195" d="M0 0v3.411h13.642v3.41zm13.642 0H6.821v6.821H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 401" transform="translate(-80 -792)" style="clip-path:url(#vnm2s9ftua)">
+        <g data-name="Flag_of_Australia_(converted)">
+            <g data-name="Group 13855">
+                <path data-name="Rectangle 4929" transform="translate(80.001 792)" style="fill:#012169" d="M0 0h28v14H0z"/>
+                <g data-name="Group 13853" transform="translate(80.358 792)" style="clip-path:url(#ma3nlzlf6b)">
+                    <path data-name="Path 3192" d="m0 0 13.642 6.821m0-6.821L0 6.821" style="stroke:#fff"/>
+                </g>
+                <g data-name="Group 13854" transform="translate(80.358 792)" style="clip-path:url(#9bc30ms4lc)">
+                    <path data-name="Path 3194" d="m0 0 13.642 6.821m0-6.821L0 6.821" style="stroke-width:.667px;stroke:#e4002b"/>
+                </g>
+                <path data-name="Path 3196" d="M6.821 0v6.821M0 3.411h13.642" transform="translate(80.358 792)" style="stroke-width:1.667px;stroke:#fff"/>
+                <path data-name="Path 3197" d="M6.821 0v6.821M0 3.411h13.642" transform="translate(80.358 792)" style="stroke:#e4002b"/>
+            </g>
+            <g data-name="Group 13856">
+                <path d="M.533-1.5.927-.273 2.133-.73 1.419.344 2.528 1l-1.284.112.177 1.278-.888-.934-.888.934.177-1.277L-1.462 1-.354.344-1.067-.73l1.205.457z" transform="translate(86.646 801.685)" style="fill:#fff"/>
+                <path d="m.254-.714.188.584.574-.217-.34.511.524.313L.592.53l.084.608L.254.693l-.423.445.084-.608L-.7.477l.531-.313-.34-.511.575.217z" transform="translate(100.568 803.108)" style="fill:#fff"/>
+                <path d="m.254-.714.188.584.574-.217-.34.511.524.313L.592.53l.084.608L.254.693l-.423.445.084-.608L-.7.477l.531-.313-.34-.511.575.217z" transform="translate(97.157 797.708)" style="fill:#fff"/>
+                <path d="m.254-.714.188.584.574-.217-.34.511.524.313L.592.53l.084.608L.254.693l-.423.445.084-.608L-.7.477l.531-.313-.34-.511.575.217z" transform="translate(100.568 794.013)" style="fill:#fff"/>
+                <path d="m.254-.714.188.584.574-.217-.34.511.524.313L.592.53l.084.608L.254.693l-.423.445.084-.608L-.7.477l.531-.313-.34-.511.575.217z" transform="translate(103.599 796.799)" style="fill:#fff"/>
+                <path d="m.144-.417.148.364.392.029L.385.23l.093.382L.144.4-.19.612-.1.23l-.3-.254.4-.029z" transform="translate(102.041 799.238)" style="fill:#fff"/>
+            </g>
+        </g>
+    </g>
+</svg>

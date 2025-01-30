@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+    <g data-name="Group 13744">
+        <g data-name="Ellipse 287" style="fill:#f1f8f5;stroke:#31c896;stroke-width:2px">
+            <circle cx="11" cy="11" r="11" style="stroke:none"/>
+            <circle cx="11" cy="11" r="10" style="fill:none"/>
+        </g>
+        <path d="M8.61 4.384h1.7v7.527h-1.7zM9.458 16a1.131 1.131 0 1 1 1.131-1.131A1.131 1.131 0 0 1 9.458 16z" transform="translate(1.568 .596)" style="fill:#31c896"/>
+    </g>
+</svg>

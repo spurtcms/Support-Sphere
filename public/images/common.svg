@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40.585" viewBox="0 0 40 40.585">
+  <g id="Group_2453" data-name="Group 2453" transform="translate(-9302 -4053.976)">
+    <rect id="Rectangle_4865" data-name="Rectangle 4865" width="40" height="40" transform="translate(9302 4054)" fill="none"/>
+    <g id="Group_2449" data-name="Group 2449" transform="translate(9299.143 4051.125)">
+      <path id="Path_3034" data-name="Path 3034" d="M41.429,38.571H18.571a1.429,1.429,0,1,1,0-2.857H41.429a1.429,1.429,0,0,1,0,2.857Z" fill="#047600"/>
+    </g>
+    <g id="Group_2451" data-name="Group 2451" transform="translate(9299.143 4051.125)">
+      <path id="Path_3036" data-name="Path 3036" d="M41.429,24.286H18.571a1.429,1.429,0,1,1,0-2.857H41.429a1.429,1.429,0,0,1,0,2.857Z" fill="#047600"/>
+    </g>
+    <g id="Group_2452" data-name="Group 2452" transform="translate(9299.143 4051.125)">
+      <path id="Path_3037" data-name="Path 3037" d="M41.429,10H18.571a1.35,1.35,0,0,1-1.429-1.429,1.35,1.35,0,0,1,1.429-1.429H41.429a1.35,1.35,0,0,1,1.429,1.429A1.35,1.35,0,0,1,41.429,10Z" fill="#047600"/>
+    </g>
+    <g id="preorder" transform="translate(9302.268 4082.073)">
+      <path id="Path_2528" data-name="Path 2528" d="M5.447.48,7.921,1.909,10.4,3.338V9.053L7.921,10.481,5.447,11.91,2.972,10.481.5,9.053V3.338L2.972,1.909Z" transform="translate(0 0)" fill="#c8efc5" stroke="#a0d89b" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Path_2529" data-name="Path 2529" d="M7.905,9.051,6.28,8.094V6.715l4.915-2.9,1.625.957-4.915,2.9Z" transform="translate(-4.108 -2.372)" fill="#047600" fill-rule="evenodd"/>
+    </g>
+    <g id="preorder-2" data-name="preorder" transform="translate(9302.268 4068.073)">
+      <path id="Path_2528-2" data-name="Path 2528" d="M5.447.48,7.921,1.909,10.4,3.338V9.053L7.921,10.481,5.447,11.91,2.972,10.481.5,9.053V3.338L2.972,1.909Z" transform="translate(0 0)" fill="#c8efc5" stroke="#a0d89b" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Path_2529-2" data-name="Path 2529" d="M7.905,9.051,6.28,8.094V6.715l4.915-2.9,1.625.957-4.915,2.9Z" transform="translate(-4.108 -2.372)" fill="#047600" fill-rule="evenodd"/>
+    </g>
+    <g id="preorder-3" data-name="preorder" transform="translate(9302.268 4054.073)">
+      <path id="Path_2528-3" data-name="Path 2528" d="M5.447.48,7.921,1.909,10.4,3.338V9.053L7.921,10.481,5.447,11.91,2.972,10.481.5,9.053V3.338L2.972,1.909Z" transform="translate(0 0)" fill="#c8efc5" stroke="#a0d89b" stroke-width="1" fill-rule="evenodd"/>
+      <path id="Path_2529-3" data-name="Path 2529" d="M7.905,9.051,6.28,8.094V6.715l4.915-2.9,1.625.957-4.915,2.9Z" transform="translate(-4.108 -2.372)" fill="#047600" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

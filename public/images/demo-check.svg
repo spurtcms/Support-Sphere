@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #187d38;
+        stroke: #187d38;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="check_13_" data-name="check (13)" transform="translate(-0.75 -0.75)">
+    <path id="Path_3030" data-name="Path 3030" class="cls-1" d="M9.25,2.366A6.884,6.884,0,1,0,16.134,9.25,6.884,6.884,0,0,0,9.25,2.366Zm-8,6.884a8,8,0,1,1,8,8A8,8,0,0,1,1.25,9.25Z"/>
+    <path id="Path_3031" data-name="Path 3031" class="cls-1" d="M13.912,8.913a.558.558,0,0,1,0,.789l-3.721,3.721a.558.558,0,0,1-.789,0L7.913,11.935a.558.558,0,0,1,.789-.789L9.8,12.24l3.326-3.326a.558.558,0,0,1,.789,0Z" transform="translate(-1.663 -1.919)"/>
+  </g>
+</svg>

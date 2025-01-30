@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="10" viewBox="0 0 15 10">
+    <defs>
+        <clipPath id="b9s70qjb1a">
+            <rect data-name="Rectangle 4884" width="15" height="10" rx="1" transform="translate(.406)" style="fill:#fff"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(-.773)" data-name="Mask Group 391" style="clip-path:url(#b9s70qjb1a)">
+        <path data-name="Path 3014" d="M-7.5-5h15V5h-15z" transform="translate(7.5 5)" style="fill:#fff"/>
+        <path data-name="Path 3015" d="M-7.5-5h15v3.333h-15z" transform="translate(7.5 5)" style="fill:#f15b25"/>
+        <path data-name="Path 3016" d="M-7.5 1.667h15V5h-15z" transform="translate(7.5 5)" style="fill:#006934"/>
+        <circle data-name="Ellipse 288" cx="1.542" cy="1.542" r="1.542" transform="translate(5.958 3.458)" style="fill:#2c2c6f"/>
+        <circle data-name="Ellipse 289" cx="1.333" cy="1.333" r="1.333" transform="translate(6.167 3.667)" style="fill:#fff"/>
+        <circle data-name="Ellipse 290" cx=".267" cy=".267" r=".267" transform="translate(7.233 4.733)" style="fill:#2c2c6f"/>
+        <g transform="translate(7.45 3.613)">
+            <path data-name="Path 3017" d="m0-1.333.05.8L0-.134l-.05-.4z" transform="translate(.05 1.387)" style="fill:#2c2c6f"/>
+            <circle data-name="Ellipse 291" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+        </g>
+        <g data-name="Group 13778" transform="rotate(180 3.775 3.194)">
+            <path data-name="Path 3018" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+            <circle data-name="Ellipse 292" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+        </g>
+        <g data-name="Group 13780">
+            <g data-name="a" transform="rotate(14.98 -9.95 31.463)">
+                <path data-name="Path 3019" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                <circle data-name="Ellipse 293" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+            </g>
+            <g data-name="Group 13779" transform="rotate(-165.02 4.012 2.703)">
+                <path data-name="Path 3020" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                <circle data-name="Ellipse 294" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+            </g>
+        </g>
+        <g data-name="Group 13784">
+            <g data-name="b">
+                <g data-name="a" transform="rotate(30 -2.966 17.095)">
+                    <path data-name="Path 3021" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                    <circle data-name="Ellipse 295" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                </g>
+                <g data-name="Group 13781" transform="rotate(-150 4.259 2.196)">
+                    <path data-name="Path 3022" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                    <circle data-name="Ellipse 296" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                </g>
+            </g>
+            <g data-name="Group 13783">
+                <g data-name="a" transform="rotate(45 -.586 12.183)">
+                    <path data-name="Path 3023" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                    <circle data-name="Ellipse 297" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                </g>
+                <g data-name="Group 13782" transform="rotate(-135 4.523 1.65)">
+                    <path data-name="Path 3024" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                    <circle data-name="Ellipse 298" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 13792">
+            <g data-name="c">
+                <g data-name="b">
+                    <g data-name="a" transform="rotate(60 .647 9.645)">
+                        <path data-name="Path 3025" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 299" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13785" transform="rotate(-120 4.818 1.043)">
+                        <path data-name="Path 3026" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 300" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+                <g data-name="Group 13787">
+                    <g data-name="a" transform="rotate(75 1.422 8.047)">
+                        <path data-name="Path 3027" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 301" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13786" transform="rotate(-105 5.16 .334)">
+                        <path data-name="Path 3028" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 302" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+            </g>
+            <g data-name="Group 13791">
+                <g data-name="b">
+                    <g data-name="a" transform="rotate(90 1.97 6.918)">
+                        <path data-name="Path 3029" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 303" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13788" transform="rotate(-90 5.58 -.531)">
+                        <path data-name="Path 3030" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 304" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+                <g data-name="Group 13790">
+                    <g data-name="a" transform="rotate(105.01 2.39 6.05)">
+                        <path data-name="Path 3031" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 305" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13789" transform="rotate(-74.99 6.128 -1.662)">
+                        <path data-name="Path 3032" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 306" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g data-name="Group 13800">
+            <g data-name="c">
+                <g data-name="b">
+                    <g data-name="a" transform="rotate(120 2.732 5.344)">
+                        <path data-name="Path 3033" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 307" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13793" transform="rotate(-60 6.903 -3.258)">
+                        <path data-name="Path 3034" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 308" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+                <g data-name="Group 13795">
+                    <g data-name="a" transform="rotate(135.01 3.027 4.736)">
+                        <path data-name="Path 3035" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 309" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13794" transform="rotate(-44.98 8.135 -5.802)">
+                        <path data-name="Path 3036" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 310" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+            </g>
+            <g data-name="Group 13799">
+                <g data-name="b">
+                    <g data-name="a" transform="rotate(150 3.291 4.192)">
+                        <path data-name="Path 3037" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 311" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13796" transform="rotate(-30 10.517 -10.708)">
+                        <path data-name="Path 3038" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 312" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+                <g data-name="Group 13798">
+                    <g data-name="a" transform="rotate(165.03 3.537 3.684)">
+                        <path data-name="Path 3039" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 313" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                    <g data-name="Group 13797" transform="rotate(-14.97 17.495 -25.126)">
+                        <path data-name="Path 3040" d="M.05 0 .1.8l-.05.4L0 .8z" transform="translate(0 .054)" style="fill:#2c2c6f"/>
+                        <circle data-name="Ellipse 314" cx=".058" cy=".058" r=".058" transform="rotate(7.53 .087 1.323)" style="fill:#2c2c6f"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="733oio3wla">
+            <path data-name="Rectangle 4848" transform="translate(72 716)" style="stroke-width:2px;fill:#fff;stroke:#707070" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 398" transform="translate(-72 -716)" style="clip-path:url(#733oio3wla)">
+        <path data-name="Path 1513" d="M2.791 6.083c0-1.815 0-2.722.564-3.286s1.471-.564 3.286-.564 2.722 0 3.286.564.564 1.471.564 3.286 0 2.722-.564 3.286-1.471.564-3.286.564-2.722 0-3.286-.564-.564-1.469-.564-3.286z" transform="translate(70.759 714.767)" style="fill:none;stroke:#000;stroke-width:2px"/>
+        <path data-name="Path 1514" d="M4.055 17.45c1.215-1.215 1.823-1.823 2.577-1.823s1.362.608 2.577 1.823 1.823 1.822 1.823 2.577-.608 1.362-1.823 2.577-1.823 1.823-2.577 1.823-1.362-.607-2.577-1.822-1.823-1.822-1.823-2.577.608-1.363 1.823-2.578z" transform="translate(70.767 714.572)" style="fill:none;stroke:#000;stroke-width:2px"/>
+        <path data-name="Path 1515" d="M6.7 10.047v5.5m4.4 4.4h5.5" transform="translate(70.702 714.653)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#000;stroke-width:2px"/>
+        <path data-name="Path 1516" d="M16.744 20.036c0-1.815 0-2.722.564-3.286s1.471-.564 3.286-.564 2.722 0 3.286.564.564 1.471.564 3.286 0 2.722-.564 3.286-1.471.564-3.286.564-2.722 0-3.286-.564-.564-1.471-.564-3.286z" transform="translate(70.555 714.564)" style="fill:none;stroke:#000;stroke-width:2px"/>
+    </g>
+</svg>

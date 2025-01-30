@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="126" viewBox="0 0 240 126">
+    <defs>
+        <clipPath id="ly4la79wra">
+            <rect data-name="Rectangle 4824" width="240" height="126" rx="8" transform="translate(1160 1650)" style="stroke:#707070;fill:#fff"/>
+        </clipPath>
+        <clipPath id="pd8auvrueb">
+            <rect data-name="Rectangle 4830" width="240" height="128" rx="11.813" style="fill:#fff"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 388" transform="translate(-1160 -1650)" style="clip-path:url(#ly4la79wra)">
+        <g data-name="Build portals faster">
+            <g data-name="Group 2367" style="clip-path:url(#pd8auvrueb)" transform="translate(1160 1649)">
+                <rect data-name="Rectangle 4829" width="240" height="128" rx="11.813" style="fill:#8ceab2"/>
+                <rect data-name="Rectangle 5" width="93" height="21" rx="4.922" transform="translate(18 39)" style="fill:none;stroke:#000;stroke-width:1.969px;stroke-dasharray:4 4"/>
+                <rect data-name="Rectangle 6" width="125" height="21" rx="4.922" transform="translate(120 39)" style="fill:#c7efd7"/>
+                <rect data-name="Rectangle 8" width="125" height="21" rx="4.922" transform="translate(120 78)" style="fill:#1ed671"/>
+                <rect data-name="Rectangle 10" width="125" height="21" rx="4.922" transform="translate(120 117)" style="fill:#2a8e55"/>
+                <rect data-name="Rectangle 9" width="93" height="21" rx="4.922" transform="translate(18 78)" style="fill:#1ed671"/>
+                <rect data-name="Rectangle 11" width="93" height="21" rx="4.922" transform="translate(18 117)" style="fill:#2a8e55"/>
+                <path data-name="Line 01" d="m63.984 33.015 10.909-3.786-8.733-7.554zm4.683-3.675c.8-.831 1.719-1.766 2.761-2.79l-1.4-1.426a136.87 136.87 0 0 0-2.8 2.831zm5.612-5.524q1.356-1.269 2.9-2.656l-1.333-1.491q-1.566 1.4-2.938 2.687zm5.858-5.24q1.44-1.233 3.014-2.528L81.882 14.5q-1.59 1.306-3.045 2.554zm6.08-5q1.506-1.188 3.118-2.41l-1.207-1.591q-1.628 1.233-3.148 2.434zM92.5 8.817q1.562-1.138 3.212-2.292l-1.143-1.639Q92.9 6.051 91.326 7.2zm6.45-4.511q1.6-1.078 3.281-2.162l-1.086-1.68q-1.694 1.094-3.312 2.183zm6.61-4.27q1.656-1.027 3.377-2.052l-1.023-1.719q-1.737 1.034-3.408 2.071zM112.333-4q1.685-.962 3.428-1.917l-.96-1.754q-1.76.963-3.46 1.935zm6.907-3.781q1.726-.906 3.509-1.8l-.9-1.788q-1.8.9-3.542 1.816zm7.033-3.527q1.761-.845 3.574-1.674l-.832-1.819q-1.829.836-3.607 1.689zm7.171-3.28q1.783-.778 3.614-1.538l-.766-1.847q-1.847.766-3.648 1.552zm7.28-3.021q1.811-.714 3.664-1.406l-.7-1.873q-1.869.7-3.7 1.419zm7.367-2.753q1.844-.652 3.729-1.282l-.633-1.9q-1.9.635-3.763 1.294zm7.466-2.493q1.874-.59 3.787-1.154l-.566-1.918q-1.931.57-3.821 1.164zm7.553-2.23q1.89-.515 3.819-1.015l-.5-1.937q-1.944.5-3.853 1.028zm7.629-1.964q1.9-.456 3.845-.884l-.431-1.953q-1.956.432-3.879.892zm7.693-1.7q1.919-.389 3.869-.75l-.364-1.967q-1.967.364-3.9.756zm7.747-1.433q.977-.164 1.962-.32l-.314-1.975q-.993.157-1.978.323z" transform="translate(1.016 -.515)" style="fill:#0f0f0f;opacity:.8"/>
+            </g>
+        </g>
+    </g>
+</svg>

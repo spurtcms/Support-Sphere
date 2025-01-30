@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="69.416" viewBox="0 0 72 69.416">
+    <g data-name="Group 13837">
+        <g data-name="Rectangle 5140" transform="translate(0 4.76)" style="stroke-width:1.6px;stroke:#a0d99b;fill:#c8efc4">
+            <rect width="66.528" height="52.704" rx="5" style="stroke:none"/>
+            <rect x=".8" y=".8" width="64.928" height="51.104" rx="4.2" style="fill:none"/>
+        </g>
+        <path data-name="Line 528" transform="translate(16.271 .8)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v11.088"/>
+        <path data-name="Line 530" transform="translate(33.264 .8)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v11.088"/>
+        <path data-name="Line 532" transform="translate(50.256 .8)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v11.088"/>
+        <path data-name="Line 529" transform="translate(13.465 12.176)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0h5.616"/>
+        <path data-name="Line 531" transform="translate(30.455 12.176)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0h5.616"/>
+        <path data-name="Line 533" transform="translate(47.447 12.176)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0h5.616"/>
+        <path data-name="Line 534" transform="translate(1.943 20.672)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0h62.64"/>
+        <g data-name="Ellipse 392" transform="translate(36 33.56)" style="fill:#fff;stroke-width:1.6px;stroke:#a0d99b">
+            <ellipse cx="18" cy="17.928" rx="18" ry="17.928" style="stroke:none"/>
+            <ellipse cx="18" cy="17.928" rx="17.2" ry="17.128" style="fill:none"/>
+        </g>
+        <path data-name="Line 535" transform="translate(10.297 28.736)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 539" transform="translate(10.297 37.664)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 541" transform="translate(10.297 46.592)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 536" transform="translate(23.832 28.736)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 540" transform="translate(23.832 37.664)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 542" transform="translate(23.832 46.592)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 537" transform="translate(37.367 28.736)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 538" transform="translate(50.904 28.736)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0h5.472"/>
+        <path data-name="Line 543" transform="translate(54.072 66.032)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.304"/>
+        <path data-name="Line 545" transform="rotate(90 9.716 61.204)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.304"/>
+        <path data-name="Line 548" transform="translate(54.072 51.488)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M6.48 0H0"/>
+        <path data-name="Line 544" transform="translate(54.072 34.64)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.304"/>
+        <path data-name="Line 547" transform="translate(54.072 41.696)" style="stroke:#047600;stroke-linecap:round;fill:none;stroke-width:1.6px" d="M0 0v9.792"/>
+        <path data-name="Line 546" transform="rotate(90 -6.052 45.436)" style="stroke-linecap:round;fill:none;stroke-width:1.6px;stroke:#a0d99b" d="M0 0v2.304"/>
+    </g>
+</svg>
