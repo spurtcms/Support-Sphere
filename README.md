@@ -1,6 +1,6 @@
 # Support Sphere template generated using spurtCMS with Next.js 
 
-![Screenshot of spurtCMS using Presentation Tool to do Visual Editing](https://dev.spurtcms.com/public/img/knowledgebase.png)
+![Screenshot of spurtCMS using Presentation Tool to do Visual Editing](https://dev.spurtcms.com/image-resize?name=/media/KnowledgeBase.jpg)
 
 Welcome to Support sphere template, your central hub for all the information, guides, and resources you need to succeed. This template is designed to provide clear, concise, and actionable content to help you navigate specific subject, product, or service.
 
