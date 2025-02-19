@@ -43,7 +43,7 @@ NEXT_PUBLIC_SPURTCMS_NEXTJS_STARTER_THEME_BASEURL="https://your-graphql-endpoint
  
  Before starting our Next JS blog template we need to go inside our spurtCMS Admin and get the default token that we will be using for displaying our content.
 
-1.Inside your spurtCMS Admin Panel [spurtcms](https://dev.spurtcms.com) navigate to API Keys.
+1.Inside your spurtCMS Admin Panel [spurtcms](https://spurtcms.com) navigate to API Keys.
 
 ![API Key 1 (1)](https://github.com/user-attachments/assets/b3806e8f-1dcd-4f75-88fe-8366b3036d47)
 
@@ -89,6 +89,6 @@ npm run prod
 
 
 ## Feedback and Questions
-If you have feedback or questions about this starter, please use the Github Issues on this repo, [(https://github.com/spurtcms/help-center/issues)]
+If you have feedback or questions about this starter, please use the Github Issues on this repo, [(https://github.com/spurtcms/Support-Sphere/issues)]
 or Send Email to us [(support@spurtcms.com)]
 
