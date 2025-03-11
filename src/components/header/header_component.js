@@ -78,7 +78,7 @@ export const Header_component = () => {
                         <h2 className='text-base font-semibold leading-[19.5px] border-l border-[#D8D8D8] pl-2.5 h-full items-center flex cursor-pointer'>Help Center</h2>
                     </Link>
                     <a href="https://spurtcms.com/" target="_blank" className='group hover:underline text-sm font-semibold leading-[17.07px] text-[#1B1B20] flex items-center ml-auto'>
-                        <p>Visit <span className='max-sm:hidden'>Spurtcommerce.com</span></p>
+                        <p>Visit <span className='max-sm:hidden'>spurtcms.com</span></p>
                         <img src="/images/showall-arrow.svg" alt="arrow" className='group-hover:translate-x-1 ml-1 transition-all duration-200 ease-in-out' />
                     </a>
                 </div>
