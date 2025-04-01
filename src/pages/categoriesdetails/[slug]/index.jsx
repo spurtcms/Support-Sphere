@@ -10,16 +10,16 @@ import React from 'react'
 
 
 
-export default  function Help_Center_Detail_Page({ categoryList, detailData, params }) {
+export default function Help_Center_Detail_Page({ categoryList, detailData, params }) {
 
     if (!detailData) {
-        return <PageNotFound/>;
+        return <PageNotFound />;
     }
 
-    
+
 
     return (
-        <> 
+        <>
             <Help_center_detail_component detailData={detailData} categoryList={categoryList} params={params?.slug} />
         </>
     )
@@ -37,7 +37,7 @@ export async function getServerSideProps(context) {
             offset: 0,
         },
         categoryFilter: {
-            categoryGroupSlug: defaultCategorySlug,
+            categoryGroupSlug: "knowledge-base",
             excludeGroup: true,
         },
     };

@@ -1,7 +1,7 @@
 import All_categories_component from '@/components/help_center/All_categories_component';
 import { fetchGraphQl } from '@/pages/api/graphicql';
 import { GET_POSTS_CATEGORYLIST_QUERY, GET_POSTS_LIST_QUERY } from '@/pages/api/query';
-import { defaultCategorySlug } from '@/pages/api/url';
+import { channel_name, defaultCategorySlug } from '@/pages/api/url';
 import React from 'react';
 
 const AllCategories_Page = ({ CategoryList, CategoryEntries, params }) => {
@@ -37,7 +37,7 @@ export async function getServerSideProps(context) {
             offset: 0,
         },
         categoryFilter: {
-            categoryGroupSlug: defaultCategorySlug,
+            categoryGroupSlug: "knowledge-base",
             excludeGroup: true,
         },
     };
@@ -49,7 +49,8 @@ export async function getServerSideProps(context) {
         },
         entryFilter: {
             Status: "Publish",
-            categorySlug: defaultCategorySlug,
+            // categorySlug: defaultCategorySlug,
+            "ChannelName": channel_name,
         },
         AdditionalData: {
             categories: true,
@@ -62,7 +63,7 @@ export async function getServerSideProps(context) {
             fetchGraphQl(GET_POSTS_CATEGORYLIST_QUERY, variable_category),
             fetchGraphQl(GET_POSTS_LIST_QUERY, variable_list),
         ]);
-
+        console.log(variable_category, "gghsgdhsgdhsgdhsgd")
         // If either CategoryList or CategoryEntries are missing, return 404
         if (!CategoryList || !CategoryEntries) {
             return {

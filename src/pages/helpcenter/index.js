@@ -2,7 +2,7 @@ import React from 'react'
 import Help_center_component from '../../components/help_center/help_center_component'
 import { fetchGraphQl } from '../api/graphicql'
 import { GET_POSTS_CATEGORYLIST_QUERY, GET_POSTS_LIST_QUERY } from '../api/query'
-import { defaultCategorySlug } from '../api/url'
+import { channel_name, defaultCategorySlug } from '../api/url'
 
 
 let variable_category = {
@@ -13,7 +13,7 @@ let variable_category = {
     },
     "categoryFilter": {
         // "hierarchyLevel": 2,
-        "categoryGroupSlug": defaultCategorySlug,
+        "categoryGroupSlug": "knowledge-base",
         "excludeGroup": true,
     }
 }
@@ -25,7 +25,8 @@ let variable_list = {
     },
     "entryFilter": {
         "Status": "Publish",
-        "categorySlug": defaultCategorySlug
+        // "categorySlug": defaultCategorySlug,
+        "ChannelName": channel_name
     },
     "AdditionalData": {
         "categories": true

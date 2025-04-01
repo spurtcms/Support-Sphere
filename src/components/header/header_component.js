@@ -1,6 +1,6 @@
 import { fetchGraphQl } from '@/pages/api/graphicql';
 import { GET_HEADER_QUERY, GET_POSTS_CATEGORYLIST_QUERY, GET_POSTS_LIST_QUERY } from '@/pages/api/query';
-import { defaultCategorySlug, image_url } from '@/pages/api/url';
+import { channel_name, defaultCategorySlug, image_url } from '@/pages/api/url';
 import Link from 'next/link'
 import React, { useEffect, useState } from 'react'
 
@@ -11,12 +11,10 @@ export const Header_component = () => {
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
 
-
     useEffect(() => {
         const fetchCategoryList = async () => {
             const variable_category = {
                 tenantId: categoryEntries?.ChannelEntriesList?.channelEntriesList?.[0].tenantId
-
             };
 
             try {
@@ -34,21 +32,23 @@ export const Header_component = () => {
     useEffect(() => {
         const fetchCategoryEntries = async () => {
             const variable_list = {
-                commonFilter: {
-                    offset: 0,
-                    keyword: "",
+                "commonFilter": {
+                    "offset": 0,
+                    "keyword": "",
                 },
-                entryFilter: {
-                    Status: "Publish",
-                    categorySlug: defaultCategorySlug,
+                "entryFilter": {
+                    "Status": "Publish",
+                    // "categorySlug": defaultCategorySlug,
+                    "ChannelName": channel_name
                 },
-                AdditionalData: {
-                    categories: true,
+                "AdditionalData": {
+                    "categories": true,
                 },
             };
 
             try {
                 const fetchedCategoryEntries = await fetchGraphQl(GET_POSTS_LIST_QUERY, variable_list);
+                console.log(fetchedCategoryEntries, "fetcheData")
                 setCategoryEntries(fetchedCategoryEntries);
             } catch (err) {
                 console.error("Error fetching category entries:", err);
@@ -61,7 +61,7 @@ export const Header_component = () => {
         fetchCategoryEntries();
     }, []); // Fetch the category entries only once on component mount
 
-    console.log("categoryLi2st", header_api_result?.GeneralInformation?.logoPath, header_api_result)
+    // console.log("categoryLi2st", header_api_result?.GeneralInformation?.logoPath, header_api_result)
 
     return (
         <>
